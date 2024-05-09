@@ -1,0 +1,16 @@
+{
+  "name": "pindie-2.0",
+  "version": "1.0.0",
+  "description": "Pindie games rating 2 version",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "neko",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
